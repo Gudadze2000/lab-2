@@ -3,11 +3,7 @@
 hello from greeting branch
 
 goodbye from greeting branch
+hello from config branch
 
 
-
-
-
-
-
-Hello my name is Sandro
+goodbye from greeting brannch
